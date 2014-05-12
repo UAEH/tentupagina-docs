@@ -1,0 +1,16 @@
+*Portada
+*Resumen
+*Indice
+*Introduccion
+*antecedentes
+*problematica
+*propuesta de solucion
+*justificacion
+*objetivo general
+*objetivos especificos
+*ventajas y limitaciones
+*estado del arte
+*desarrollo
+*referencias
+*conclusiones
+*trabajos futuros y anexos
