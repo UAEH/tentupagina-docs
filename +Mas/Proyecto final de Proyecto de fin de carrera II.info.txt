@@ -1,5 +1,7 @@
 Proyecto final de Proyecto de fin de carrera II
 
+```
+
 (Portada)
 (Resumen)
 
@@ -116,7 +118,7 @@ CAPÍTULO VII: PRUEBAS DEL SISTEMA
 7.1 	Instalación del sistema y la Base de Datos
 7.1.1 	Intalación del sistema
 7.1.2	Importación de la Base de datos en el servidor
-7.1 	Creación de usurio y sitio web demo
+7.1 	Creación de usuario y sitio web demo
 7.1.2	Registro de usuario demo
 7.1.3	Registro de sitio web demo
 7.2		Acciones del panel
@@ -128,7 +130,6 @@ Conclusiones
 Anexo I
 Glosario
 Referencias
-
 
 ´´´
 Secciones del documento
