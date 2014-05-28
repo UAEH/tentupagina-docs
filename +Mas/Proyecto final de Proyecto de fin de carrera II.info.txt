@@ -21,38 +21,36 @@ CAPÍTULO I: MARCO TEÓRICO
 
 1.1		Introducción a los lenguajes de Programación
 1.1.1	Lenguajes de alto nivel
-1.2.1	Clasificación de los lenguajes de programación
+1.1.2	Clasificación de los lenguajes de programación
 
-1.3		Lenguajes Web
-1.3.1	Lenguaje PHP
-1.3.2	JavaScript
-1.3.3	Librería JQuery
-1.3.4	Archivos Json
-1.3.5	Hojas de estilo de Cascada
-1.3.6	Lenguaje HTML
+1.2		Lenguajes por lugar de ejecución
+1.2.1	Lenguaje PHP
+1.2.2	JavaScript
+1.2.3	Librería JQuery
+1.2.4	Archivos Json
+1.2.5	Hojas de estilo de Cascada
+1.2.6	Lenguaje HTML
 
-1.4		Arquitectura de Software
-1.4.1	Metodología XP
-1.4.1	Arquitectura tipo cliente servidor
-1.4.2	Modelo Vista Controlador
+1.3		Arquitectura
+1.3.1	Estructura tipo cliente servidor
+1.3.2	Modelo Vista Controlador
 
-1.5		Frameworks para desarrollo web ágil
-1.5.1	Frameworks Backend
-1.5.2	Frameworks Front-End	
+1.4		Frameworks para desarrollo ágil
+1.4.1	Frameworks Backend
+1.4.2	Frameworks Front-End	
 
-1.6		Framework Laravel
-1.6.1	Ventajas y conceptos
-1.6.2	Composer
-
-1.7		Framework Bootstrap
+1.5		Framework Laravel
+1.5.1	Ventajas y conceptos
+==>
+1.6		Framework Bootstrap
 1.6.1	Características y ventajas
 1.6.2	Componentes
 
-1.8		Introducción a las bases de datos
-1.8.1	Base de datos relacionales
-1.8.2	MySQL
-1.8.3	Seguridad
-1.8.3	Modelado de datos
+1.7		Introducción a las bases de datos
+1.7.1	Base de datos relacionales
+1.7.2	MySQL
+1.7.3	Seguridad
+1.7.3	Modelado de datos
 
 CAPÍTULO II: Metodología
 
@@ -97,33 +95,49 @@ CAPÍTULO VI: DESARROLLO DEL SISTEMA
 
 6.1		Estructura del proyecto
 6.1.1	Definición de variables
-6.2		Panel de administación
-6.2.1	Inicio de sesión
-6.2.2	Registro
-6.2.3	Verificación de cuenta
-6.2.4	Cambiar contraseña
-6.2.5	Editar email
-6.2.6	Editar nombre de usuario
-6.2.8	Reestablecer contraseña
-6.2.9	Subir avatar
-6.2.10	Nuevo sitio web
-6.2.11	Cambiar información
-6.2.12	Cambiar imágenes
-6.2.13	Mostrar sitio web
-6.3		Constructor de sitios
-6.3.1 	Reescritura de URL's
-6.4		Cambiador de temas
+6.2 	Creación de usuario y sitio web
+6.2.1	Registro de usuario
+6.2.2	Registro de sitio web
+6.3		Panel de administración de sitio web
+6.3.1	Inicio de sesión
+6.4		Perfil de usuario
+6.4.1	Mostrar perfil de usurio
+6.4.2	Restaurar contrseña
+6.4.3	Subir un avatar
+6.4.4	Cambiar nombre de usuario
+6.4.5	Cambiar e-mail
+6.4.6	Cerrar sesión
+6.5		Gestión de sitios web
+6.5.1	Constructor de sito
+6.5.2	Cambiar diseño de sitio
+6.5.3	cambiar imágenes de galería
+6.5.4	Modificar información
+6.5.5	Cambiar URL
+6.5.6	Eliminar sitio
 
 CAPÍTULO VII: PRUEBAS DEL SISTEMA
 7.1 	Instalación del sistema y la Base de Datos
-7.1.1 	Intalación del sistema
+7.1.1 	Instalación del sistema
 7.1.2	Importación de la Base de datos en el servidor
 7.1 	Creación de usuario y sitio web demo
 7.1.2	Registro de usuario demo
 7.1.3	Registro de sitio web demo
-7.2		Acciones del panel
-7.2.1 	Modificar información del sitio web
-7.2.2	Subir imágenes de galería
+7.2		Panel de administración de sitio web
+7.2.1	Inicio de sesión
+7.3		Perfil de usuario
+7.3.1	Mostrar perfil de usurio
+7.3.2	Restaurar contrseña
+7.3.3	Subir un avatar
+7.3.4	Cambiar nombre de usuario
+7.3.5	Cambiar e-mail
+7.3.6	Cerrar sesión
+7.4		Gestión de sitios web
+7.4.1	Constructor de sito
+7.4.2	Cambiar diseño de sitio
+7.4.3	cambiar imágenes de galería
+7.4.4	Modificar información
+7.4.5	Cambiar URL
+7.4.6	Eliminar sitio
 
 Trabajos futuros
 Conclusiones
