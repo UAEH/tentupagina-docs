@@ -48,6 +48,7 @@ CAPÍTULO I: MARCO TEÓRICO
 1.7.2	MySQL
 
 1.8		Sistema de Información
+
 CAPÍTULO II: Metodología
 
 2.1		Introducción a la metodología
@@ -58,7 +59,7 @@ CAPÍTULO II: Metodología
 2.2.1	Diseño
 2.2.2	Desarrollo
 2.2.3	Implementación
-
+=>
 CAPÍTULO III: Estado del arte
 3.1		Introducción a proyectos alternos
 3.1.1	Jimdo
