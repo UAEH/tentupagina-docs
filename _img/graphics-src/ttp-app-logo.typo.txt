@@ -1,0 +1,6 @@
+Fonts: 
+Maven Pro
+
+Colors:
+#e74c3c (Alizarin, light-red)
+#c0392b (Pomegranate, dark red)
