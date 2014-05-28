@@ -40,18 +40,14 @@ CAPÍTULO I: MARCO TEÓRICO
 1.4.2	Frameworks Front-End	
 
 1.5		Framework Laravel
-1.5.1	Ventajas y conceptos
-==>
 1.6		Framework Bootstrap
 1.6.1	Características y ventajas
-1.6.2	Componentes
 
 1.7		Introducción a las bases de datos
 1.7.1	Base de datos relacionales
 1.7.2	MySQL
-1.7.3	Seguridad
-1.7.3	Modelado de datos
 
+1.8		Sistema de Información
 CAPÍTULO II: Metodología
 
 2.1		Introducción a la metodología
@@ -139,7 +135,6 @@ CAPÍTULO VII: PRUEBAS DEL SISTEMA
 7.4.5	Cambiar URL
 7.4.6	Eliminar sitio
 
-Trabajos futuros
 Conclusiones
 Anexo I
 Glosario

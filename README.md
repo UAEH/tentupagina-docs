@@ -1,7 +1,7 @@
 ![introduction & quickstart placeholder picture](_img/preview/ttp-app-placeholder.png)
 
 # tentupagina.com
-Tentupagina.com Project documentation
+Tentupagina.com Documentation
 
 ## The Project
 
@@ -9,7 +9,7 @@ You can also find the source code project [right here](https://github.com/adlnet
 
 ## The content
 
-Within the download you'll find the following directories (and files), logically grouping common assets. You'll see something like this:
+Within the download you'll find the following directories (and files). You'll see something like this:
 
 ```
 ├───+Mas
