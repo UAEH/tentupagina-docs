@@ -38,8 +38,3 @@ Location
 Main dir:
 :/Documents/UAEH/Proyecto-de-Fin-de-Carrera-2/tentupagina-docs
 ```
-## Copyright and license
-
-Copyright 2014 [ADL NETWORKS](https://www.adlnetworks.com), S.A.
-
-Code Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php). Totally free for private or commercial projects.
